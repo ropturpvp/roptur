@@ -114,7 +114,6 @@ function senddino(option){
 				
 		case 23:
 				document.getElementById("set").value = "titanosaur";
-				document.getElementById("level").value = document.getElementById("nivel23").value;
 				break;
 				
 		case 24:
@@ -242,6 +241,18 @@ function senddino(option){
 				
 		case 49:
 				document.getElementById("set").value = "icetitan";
+				break;
+				
+		case 50:
+				document.getElementById("set").value = "stegosaurus";
+				break;
+				
+		case 51:
+				document.getElementById("set").value = "carbonemys";
+				break;
+				
+		case 52:
+				document.getElementById("set").value = "megalodon";
 				break;
 	}
 }
@@ -695,36 +706,15 @@ function giganotosaurus(){
 		break;
 
 		case '200':
-			document.getElementById("valor22").innerHTML = "1000";
+			document.getElementById("valor22").innerHTML = "5000";
 		break;
 
 		case '250':
-			document.getElementById("valor22").innerHTML = "1400";
+			document.getElementById("valor22").innerHTML = "6500";
 		break;
 
 		case '300':
-			document.getElementById("valor22").innerHTML = "1800";
-		break;
-	}
-}
-
-function titanosaur(){
-	switch (document.getElementById("nivel23").value)
-	{
-		case '0':
-			document.getElementById("valor23").innerHTML = "0";
-		break;
-
-		case '200':
-			document.getElementById("valor23").innerHTML = "1000";
-		break;
-
-		case '250':
-			document.getElementById("valor23").innerHTML = "1400";
-		break;
-
-		case '300':
-			document.getElementById("valor23").innerHTML = "1800";
+			document.getElementById("valor22").innerHTML = "8000";
 		break;
 	}
 }
@@ -737,15 +727,15 @@ function tusoteuthis(){
 		break;
 
 		case '200':
-			document.getElementById("valor24").innerHTML = "1000";
+			document.getElementById("valor24").innerHTML = "5000";
 		break;
 
 		case '250':
-			document.getElementById("valor24").innerHTML = "1400";
+			document.getElementById("valor24").innerHTML = "6500";
 		break;
 
 		case '300':
-			document.getElementById("valor24").innerHTML = "1800";
+			document.getElementById("valor24").innerHTML = "8000";
 		break;
 	}
 }
@@ -758,15 +748,15 @@ function mosasaurus(){
 		break;
 
 		case '200':
-			document.getElementById("valor25").innerHTML = "1000";
+			document.getElementById("valor25").innerHTML = "4500";
 		break;
 
 		case '250':
-			document.getElementById("valor25").innerHTML = "1400";
+			document.getElementById("valor25").innerHTML = "6000";
 		break;
 
 		case '300':
-			document.getElementById("valor25").innerHTML = "1800";
+			document.getElementById("valor25").innerHTML = "7500";
 		break;
 	}
 }
@@ -779,15 +769,15 @@ function plesiosaur(){
 		break;
 
 		case '200':
-			document.getElementById("valor26").innerHTML = "1000";
+			document.getElementById("valor26").innerHTML = "4000";
 		break;
 
 		case '250':
-			document.getElementById("valor26").innerHTML = "1400";
+			document.getElementById("valor26").innerHTML = "5500";
 		break;
 
 		case '300':
-			document.getElementById("valor26").innerHTML = "1800";
+			document.getElementById("valor26").innerHTML = "7000";
 		break;
 	}
 }
@@ -800,15 +790,15 @@ function gacha(){
 		break;
 
 		case '200':
-			document.getElementById("valor27").innerHTML = "1000";
+			document.getElementById("valor27").innerHTML = "5500";
 		break;
 
 		case '250':
-			document.getElementById("valor27").innerHTML = "1400";
+			document.getElementById("valor27").innerHTML = "6500";
 		break;
 
 		case '300':
-			document.getElementById("valor27").innerHTML = "1800";
+			document.getElementById("valor27").innerHTML = "7500";
 		break;
 	}
 }
@@ -821,15 +811,15 @@ function managarmr(){
 		break;
 
 		case '200':
-			document.getElementById("valor28").innerHTML = "1000";
+			document.getElementById("valor28").innerHTML = "4500";
 		break;
 
 		case '250':
-			document.getElementById("valor28").innerHTML = "1400";
+			document.getElementById("valor28").innerHTML = "5000";
 		break;
 
 		case '300':
-			document.getElementById("valor28").innerHTML = "1800";
+			document.getElementById("valor28").innerHTML = "5500";
 		break;
 	}
 }
@@ -842,15 +832,15 @@ function gasbags(){
 		break;
 
 		case '200':
-			document.getElementById("valor29").innerHTML = "1000";
+			document.getElementById("valor29").innerHTML = "5000";
 		break;
 
 		case '250':
-			document.getElementById("valor29").innerHTML = "1400";
+			document.getElementById("valor29").innerHTML = "6000";
 		break;
 
 		case '300':
-			document.getElementById("valor29").innerHTML = "1800";
+			document.getElementById("valor29").innerHTML = "7000";
 		break;
 	}
 }
@@ -863,15 +853,15 @@ function snowowl(){
 		break;
 
 		case '200':
-			document.getElementById("valor30").innerHTML = "1000";
+			document.getElementById("valor30").innerHTML = "6000";
 		break;
 
 		case '250':
-			document.getElementById("valor30").innerHTML = "1400";
+			document.getElementById("valor30").innerHTML = "7000";
 		break;
 
 		case '300':
-			document.getElementById("valor30").innerHTML = "1800";
+			document.getElementById("valor30").innerHTML = "8000";
 		break;
 	}
 }
@@ -884,15 +874,15 @@ function velonasaur(){
 		break;
 
 		case '200':
-			document.getElementById("valor31").innerHTML = "1000";
+			document.getElementById("valor31").innerHTML = "3500";
 		break;
 
 		case '250':
-			document.getElementById("valor31").innerHTML = "1400";
+			document.getElementById("valor31").innerHTML = "4500";
 		break;
 
 		case '300':
-			document.getElementById("valor31").innerHTML = "1800";
+			document.getElementById("valor31").innerHTML = "5500";
 		break;
 	}
 }
@@ -905,15 +895,15 @@ function basilisk(){
 		break;
 
 		case '200':
-			document.getElementById("valor32").innerHTML = "1000";
+			document.getElementById("valor32").innerHTML = "5000";
 		break;
 
 		case '250':
-			document.getElementById("valor32").innerHTML = "1400";
+			document.getElementById("valor32").innerHTML = "5500";
 		break;
 
 		case '300':
-			document.getElementById("valor32").innerHTML = "1800";
+			document.getElementById("valor32").innerHTML = "6000";
 		break;
 	}
 }
@@ -926,15 +916,15 @@ function karkinos(){
 		break;
 
 		case '200':
-			document.getElementById("valor33").innerHTML = "1000";
+			document.getElementById("valor33").innerHTML = "5500";
 		break;
 
 		case '250':
-			document.getElementById("valor33").innerHTML = "1400";
+			document.getElementById("valor33").innerHTML = "6500";
 		break;
 
 		case '300':
-			document.getElementById("valor33").innerHTML = "1800";
+			document.getElementById("valor33").innerHTML = "7500";
 		break;
 	}
 }
@@ -947,15 +937,15 @@ function rockdrake(){
 		break;
 
 		case '200':
-			document.getElementById("valor34").innerHTML = "1000";
+			document.getElementById("valor34").innerHTML = "4000";
 		break;
 
 		case '250':
-			document.getElementById("valor34").innerHTML = "1400";
+			document.getElementById("valor34").innerHTML = "5000";
 		break;
 
 		case '300':
-			document.getElementById("valor34").innerHTML = "1800";
+			document.getElementById("valor34").innerHTML = "6000";
 		break;
 	}
 }
@@ -968,15 +958,15 @@ function rollrat(){
 		break;
 
 		case '200':
-			document.getElementById("valor35").innerHTML = "1000";
+			document.getElementById("valor35").innerHTML = "3500";
 		break;
 
 		case '250':
-			document.getElementById("valor35").innerHTML = "1400";
+			document.getElementById("valor35").innerHTML = "4000";
 		break;
 
 		case '300':
-			document.getElementById("valor35").innerHTML = "1800";
+			document.getElementById("valor35").innerHTML = "4500";
 		break;
 	}
 }
@@ -989,15 +979,15 @@ function ravager(){
 		break;
 
 		case '200':
-			document.getElementById("valor36").innerHTML = "1000";
+			document.getElementById("valor36").innerHTML = "3000";
 		break;
 
 		case '250':
-			document.getElementById("valor36").innerHTML = "1400";
+			document.getElementById("valor36").innerHTML = "3500";
 		break;
 
 		case '300':
-			document.getElementById("valor36").innerHTML = "1800";
+			document.getElementById("valor36").innerHTML = "4000";
 		break;
 	}
 }
@@ -1010,15 +1000,15 @@ function reaper(){
 		break;
 
 		case '200':
-			document.getElementById("valor37").innerHTML = "1000";
+			document.getElementById("valor37").innerHTML = "5000";
 		break;
 
 		case '250':
-			document.getElementById("valor37").innerHTML = "1400";
+			document.getElementById("valor37").innerHTML = "6000";
 		break;
 
 		case '300':
-			document.getElementById("valor37").innerHTML = "1800";
+			document.getElementById("valor37").innerHTML = "7000";
 		break;
 	}
 }
@@ -1031,15 +1021,15 @@ function bulldog(){
 		break;
 
 		case '200':
-			document.getElementById("valor38").innerHTML = "1000";
+			document.getElementById("valor38").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor38").innerHTML = "1400";
+			document.getElementById("valor38").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor38").innerHTML = "1800";
+			document.getElementById("valor38").innerHTML = "3000";
 		break;
 	}
 }
@@ -1052,15 +1042,15 @@ function featherlight(){
 		break;
 
 		case '200':
-			document.getElementById("valor39").innerHTML = "1000";
+			document.getElementById("valor39").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor39").innerHTML = "1400";
+			document.getElementById("valor39").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor39").innerHTML = "1800";
+			document.getElementById("valor39").innerHTML = "3000";
 		break;
 	}
 }
@@ -1073,15 +1063,15 @@ function glowtail(){
 		break;
 
 		case '200':
-			document.getElementById("valor40").innerHTML = "1000";
+			document.getElementById("valor40").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor40").innerHTML = "1400";
+			document.getElementById("valor40").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor40").innerHTML = "1800";
+			document.getElementById("valor40").innerHTML = "3000";
 		break;
 	}
 }
@@ -1094,15 +1084,15 @@ function shinehorn(){
 		break;
 
 		case '200':
-			document.getElementById("valor41").innerHTML = "1000";
+			document.getElementById("valor41").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor41").innerHTML = "1400";
+			document.getElementById("valor41").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor41").innerHTML = "1800";
+			document.getElementById("valor41").innerHTML = "3000";
 		break;
 	}
 }
@@ -1136,15 +1126,15 @@ function phoenix(){
 		break;
 
 		case '200':
-			document.getElementById("valor43").innerHTML = "1000";
+			document.getElementById("valor43").innerHTML = "3000";
 		break;
 
 		case '250':
-			document.getElementById("valor43").innerHTML = "1400";
+			document.getElementById("valor43").innerHTML = "4000";
 		break;
 
 		case '300':
-			document.getElementById("valor43").innerHTML = "1800";
+			document.getElementById("valor43").innerHTML = "5000";
 		break;
 	}
 }
@@ -1157,15 +1147,15 @@ function griffin(){
 		break;
 
 		case '200':
-			document.getElementById("valor44").innerHTML = "1000";
+			document.getElementById("valor44").innerHTML = "3500";
 		break;
 
 		case '250':
-			document.getElementById("valor44").innerHTML = "1400";
+			document.getElementById("valor44").innerHTML = "4500";
 		break;
 
 		case '300':
-			document.getElementById("valor44").innerHTML = "1800";
+			document.getElementById("valor44").innerHTML = "5500";
 		break;
 	}
 }
@@ -1178,15 +1168,15 @@ function angler(){
 		break;
 
 		case '200':
-			document.getElementById("valor45").innerHTML = "1000";
+			document.getElementById("valor45").innerHTML = "2500";
 		break;
 
 		case '250':
-			document.getElementById("valor45").innerHTML = "1400";
+			document.getElementById("valor45").innerHTML = "3000";
 		break;
 
 		case '300':
-			document.getElementById("valor45").innerHTML = "1800";
+			document.getElementById("valor45").innerHTML = "3500";
 		break;
 	}
 }
@@ -1199,15 +1189,78 @@ function achatina(){
 		break;
 
 		case '200':
-			document.getElementById("valor46").innerHTML = "1000";
+			document.getElementById("valor46").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor46").innerHTML = "1400";
+			document.getElementById("valor46").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor46").innerHTML = "1800";
+			document.getElementById("valor46").innerHTML = "3000";
+		break;
+	}
+}
+
+function stegosaurus(){
+	switch (document.getElementById("nivel50").value)
+	{
+		case '0':
+			document.getElementById("valor50").innerHTML = "0";
+		break;
+
+		case '200':
+			document.getElementById("valor50").innerHTML = "1000";
+		break;
+
+		case '250':
+			document.getElementById("valor50").innerHTML = "1400";
+		break;
+
+		case '300':
+			document.getElementById("valor50").innerHTML = "1800";
+		break;
+	}
+}
+
+function carbonemys(){
+	switch (document.getElementById("nivel51").value)
+	{
+		case '0':
+			document.getElementById("valor51").innerHTML = "0";
+		break;
+
+		case '200':
+			document.getElementById("valor51").innerHTML = "1000";
+		break;
+
+		case '250':
+			document.getElementById("valor51").innerHTML = "1400";
+		break;
+
+		case '300':
+			document.getElementById("valor51").innerHTML = "1800";
+		break;
+	}
+}
+
+function megalodon(){
+	switch (document.getElementById("nivel52").value)
+	{
+		case '0':
+			document.getElementById("valor52").innerHTML = "0";
+		break;
+
+		case '200':
+			document.getElementById("valor52").innerHTML = "3000";
+		break;
+
+		case '250':
+			document.getElementById("valor52").innerHTML = "3500";
+		break;
+
+		case '300':
+			document.getElementById("valor52").innerHTML = "4000";
 		break;
 	}
 }
