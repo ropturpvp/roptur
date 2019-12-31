@@ -207,11 +207,6 @@ function senddino(option){
 				document.getElementById("level").value = document.getElementById("nivel41").value;
 				break;
 				
-		case 42:
-				document.getElementById("set").value = "seeker";
-				document.getElementById("level").value = document.getElementById("nivel42").value;
-				break;
-				
 		case 43:
 				document.getElementById("set").value = "phoenix";
 				document.getElementById("level").value = document.getElementById("nivel43").value;
@@ -1103,27 +1098,6 @@ function shinehorn(){
 
 		case '300':
 			document.getElementById("valor41").innerHTML = "1800";
-		break;
-	}
-}
-
-function seeker(){
-	switch (document.getElementById("nivel42").value)
-	{
-		case '0':
-			document.getElementById("valor42").innerHTML = "0";
-		break;
-
-		case '200':
-			document.getElementById("valor42").innerHTML = "1000";
-		break;
-
-		case '250':
-			document.getElementById("valor42").innerHTML = "1400";
-		break;
-
-		case '300':
-			document.getElementById("valor42").innerHTML = "1800";
 		break;
 	}
 }
