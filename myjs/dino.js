@@ -265,15 +265,15 @@ function argentavis(){
 		break;
 
 		case '200':
-			document.getElementById("valor1").innerHTML = "1000";
+			document.getElementById("valor1").innerHTML = "1900";
 		break;
 
 		case '250':
-			document.getElementById("valor1").innerHTML = "1400";
+			document.getElementById("valor1").innerHTML = "2400";
 		break;
 
 		case '300':
-			document.getElementById("valor1").innerHTML = "1800";
+			document.getElementById("valor1").innerHTML = "2900";
 		break;
 	}
 }
@@ -286,15 +286,15 @@ function ankylosaurus(){
 		break;
 
 		case '200':
-			document.getElementById("valor2").innerHTML = "1000";
+			document.getElementById("valor2").innerHTML = "1500";
 		break;
 
 		case '250':
-			document.getElementById("valor2").innerHTML = "1400";
+			document.getElementById("valor2").innerHTML = "2000";
 		break;
 
 		case '300':
-			document.getElementById("valor2").innerHTML = "1800";
+			document.getElementById("valor2").innerHTML = "2500";
 		break;
 	}
 }
@@ -307,15 +307,15 @@ function castoroides(){
 		break;
 
 		case '200':
-			document.getElementById("valor3").innerHTML = "1000";
+			document.getElementById("valor3").innerHTML = "1500";
 		break;
 
 		case '250':
-			document.getElementById("valor3").innerHTML = "1400";
+			document.getElementById("valor3").innerHTML = "2000";
 		break;
 
 		case '300':
-			document.getElementById("valor3").innerHTML = "1800";
+			document.getElementById("valor3").innerHTML = "2500";
 		break;
 	}
 }
@@ -328,15 +328,15 @@ function doedicurus(){
 		break;
 
 		case '200':
-			document.getElementById("valor4").innerHTML = "1000";
+			document.getElementById("valor4").innerHTML = "1500";
 		break;
 
 		case '250':
-			document.getElementById("valor4").innerHTML = "1400";
+			document.getElementById("valor4").innerHTML = "2000";
 		break;
 
 		case '300':
-			document.getElementById("valor4").innerHTML = "1800";
+			document.getElementById("valor4").innerHTML = "2500";
 		break;
 	}
 }
@@ -349,15 +349,15 @@ function mantis(){
 		break;
 
 		case '200':
-			document.getElementById("valor5").innerHTML = "1000";
+			document.getElementById("valor5").innerHTML = "1800";
 		break;
 
 		case '250':
-			document.getElementById("valor5").innerHTML = "1400";
+			document.getElementById("valor5").innerHTML = "2300";
 		break;
 
 		case '300':
-			document.getElementById("valor5").innerHTML = "1800";
+			document.getElementById("valor5").innerHTML = "2800";
 		break;
 	}
 }
@@ -370,15 +370,15 @@ function yutyrannus(){
 		break;
 
 		case '200':
-			document.getElementById("valor6").innerHTML = "1000";
+			document.getElementById("valor6").innerHTML = "3800";
 		break;
 
 		case '250':
-			document.getElementById("valor6").innerHTML = "1400";
+			document.getElementById("valor6").innerHTML = "4300";
 		break;
 
 		case '300':
-			document.getElementById("valor6").innerHTML = "1800";
+			document.getElementById("valor6").innerHTML = "4800";
 		break;
 	}
 }
@@ -391,15 +391,15 @@ function unicorn(){
 		break;
 
 		case '200':
-			document.getElementById("valor7").innerHTML = "1000";
+			document.getElementById("valor7").innerHTML = "2500";
 		break;
 
 		case '250':
-			document.getElementById("valor7").innerHTML = "1400";
+			document.getElementById("valor7").innerHTML = "3000";
 		break;
 
 		case '300':
-			document.getElementById("valor7").innerHTML = "1800";
+			document.getElementById("valor7").innerHTML = "3500";
 		break;
 	}
 }
@@ -412,15 +412,15 @@ function therizinosaurus(){
 		break;
 
 		case '200':
-			document.getElementById("valor8").innerHTML = "1000";
+			document.getElementById("valor8").innerHTML = "3000";
 		break;
 
 		case '250':
-			document.getElementById("valor8").innerHTML = "1400";
+			document.getElementById("valor8").innerHTML = "3500";
 		break;
 
 		case '300':
-			document.getElementById("valor8").innerHTML = "1800";
+			document.getElementById("valor8").innerHTML = "4000";
 		break;
 	}
 }
@@ -433,15 +433,15 @@ function mammoth(){
 		break;
 
 		case '200':
-			document.getElementById("valor9").innerHTML = "1000";
+			document.getElementById("valor9").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor9").innerHTML = "1400";
+			document.getElementById("valor9").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor9").innerHTML = "1800";
+			document.getElementById("valor9").innerHTML = "3000";
 		break;
 	}
 }
@@ -454,15 +454,15 @@ function quetzal(){
 		break;
 
 		case '200':
-			document.getElementById("valor10").innerHTML = "1000";
+			document.getElementById("valor10").innerHTML = "2300";
 		break;
 
 		case '250':
-			document.getElementById("valor10").innerHTML = "1400";
+			document.getElementById("valor10").innerHTML = "2800";
 		break;
 
 		case '300':
-			document.getElementById("valor10").innerHTML = "1800";
+			document.getElementById("valor10").innerHTML = "3300";
 		break;
 	}
 }
@@ -475,15 +475,15 @@ function pteranodon(){
 		break;
 
 		case '200':
-			document.getElementById("valor11").innerHTML = "1000";
+			document.getElementById("valor11").innerHTML = "1200";
 		break;
 
 		case '250':
-			document.getElementById("valor11").innerHTML = "1400";
+			document.getElementById("valor11").innerHTML = "1700";
 		break;
 
 		case '300':
-			document.getElementById("valor11").innerHTML = "1800";
+			document.getElementById("valor11").innerHTML = "2200";
 		break;
 	}
 }
@@ -496,15 +496,15 @@ function tapejara(){
 		break;
 
 		case '200':
-			document.getElementById("valor12").innerHTML = "1000";
+			document.getElementById("valor12").innerHTML = "1500";
 		break;
 
 		case '250':
-			document.getElementById("valor12").innerHTML = "1400";
+			document.getElementById("valor12").innerHTML = "2000";
 		break;
 
 		case '300':
-			document.getElementById("valor12").innerHTML = "1800";
+			document.getElementById("valor12").innerHTML = "2500";
 		break;
 	}
 }
@@ -517,15 +517,15 @@ function triceratops(){
 		break;
 
 		case '200':
-			document.getElementById("valor13").innerHTML = "1000";
+			document.getElementById("valor13").innerHTML = "1500";
 		break;
 
 		case '250':
-			document.getElementById("valor13").innerHTML = "1400";
+			document.getElementById("valor13").innerHTML = "2000";
 		break;
 
 		case '300':
-			document.getElementById("valor13").innerHTML = "1800";
+			document.getElementById("valor13").innerHTML = "2500";
 		break;
 	}
 }
@@ -538,15 +538,15 @@ function rockelemental(){
 		break;
 
 		case '200':
-			document.getElementById("valor14").innerHTML = "1000";
+			document.getElementById("valor14").innerHTML = "4500";
 		break;
 
 		case '250':
-			document.getElementById("valor14").innerHTML = "1400";
+			document.getElementById("valor14").innerHTML = "5000";
 		break;
 
 		case '300':
-			document.getElementById("valor14").innerHTML = "1800";
+			document.getElementById("valor14").innerHTML = "5500";
 		break;
 	}
 }
@@ -559,15 +559,15 @@ function daeodon(){
 		break;
 
 		case '200':
-			document.getElementById("valor15").innerHTML = "1000";
+			document.getElementById("valor15").innerHTML = "2200";
 		break;
 
 		case '250':
-			document.getElementById("valor15").innerHTML = "1400";
+			document.getElementById("valor15").innerHTML = "2700";
 		break;
 
 		case '300':
-			document.getElementById("valor15").innerHTML = "1800";
+			document.getElementById("valor15").innerHTML = "3200";
 		break;
 	}
 }
@@ -580,15 +580,15 @@ function thylacoleo(){
 		break;
 
 		case '200':
-			document.getElementById("valor16").innerHTML = "1000";
+			document.getElementById("valor16").innerHTML = "2800";
 		break;
 
 		case '250':
-			document.getElementById("valor16").innerHTML = "1400";
+			document.getElementById("valor16").innerHTML = "3300";
 		break;
 
 		case '300':
-			document.getElementById("valor16").innerHTML = "1800";
+			document.getElementById("valor16").innerHTML = "3800";
 		break;
 	}
 }
@@ -601,15 +601,15 @@ function woollyrhino(){
 		break;
 
 		case '200':
-			document.getElementById("valor17").innerHTML = "1000";
+			document.getElementById("valor17").innerHTML = "3200";
 		break;
 
 		case '250':
-			document.getElementById("valor17").innerHTML = "1400";
+			document.getElementById("valor17").innerHTML = "3700";
 		break;
 
 		case '300':
-			document.getElementById("valor17").innerHTML = "1800";
+			document.getElementById("valor17").innerHTML = "4200";
 		break;
 	}
 }
@@ -622,15 +622,15 @@ function procoptodon(){
 		break;
 
 		case '200':
-			document.getElementById("valor18").innerHTML = "1000";
+			document.getElementById("valor18").innerHTML = "2500";
 		break;
 
 		case '250':
-			document.getElementById("valor18").innerHTML = "1400";
+			document.getElementById("valor18").innerHTML = "3000";
 		break;
 
 		case '300':
-			document.getElementById("valor18").innerHTML = "1800";
+			document.getElementById("valor18").innerHTML = "3500";
 		break;
 	}
 }
@@ -643,15 +643,15 @@ function megatherium(){
 		break;
 
 		case '200':
-			document.getElementById("valor19").innerHTML = "1000";
+			document.getElementById("valor19").innerHTML = "3000";
 		break;
 
 		case '250':
-			document.getElementById("valor19").innerHTML = "1400";
+			document.getElementById("valor19").innerHTML = "3500";
 		break;
 
 		case '300':
-			document.getElementById("valor19").innerHTML = "1800";
+			document.getElementById("valor19").innerHTML = "4000";
 		break;
 	}
 }
@@ -664,15 +664,15 @@ function rex(){
 		break;
 
 		case '200':
-			document.getElementById("valor20").innerHTML = "1000";
+			document.getElementById("valor20").innerHTML = "4000";
 		break;
 
 		case '250':
-			document.getElementById("valor20").innerHTML = "1400";
+			document.getElementById("valor20").innerHTML = "5500";
 		break;
 
 		case '300':
-			document.getElementById("valor20").innerHTML = "1800";
+			document.getElementById("valor20").innerHTML = "7000";
 		break;
 	}
 }
@@ -685,15 +685,15 @@ function spinosaur(){
 		break;
 
 		case '200':
-			document.getElementById("valor21").innerHTML = "1000";
+			document.getElementById("valor21").innerHTML = "3000";
 		break;
 
 		case '250':
-			document.getElementById("valor21").innerHTML = "1400";
+			document.getElementById("valor21").innerHTML = "3500";
 		break;
 
 		case '300':
-			document.getElementById("valor21").innerHTML = "1800";
+			document.getElementById("valor21").innerHTML = "4000";
 		break;
 	}
 }
@@ -1105,15 +1105,15 @@ function beelzebufo(){
 		break;
 
 		case '200':
-			document.getElementById("valor42").innerHTML = "1000";
+			document.getElementById("valor42").innerHTML = "2000";
 		break;
 
 		case '250':
-			document.getElementById("valor42").innerHTML = "1400";
+			document.getElementById("valor42").innerHTML = "2500";
 		break;
 
 		case '300':
-			document.getElementById("valor42").innerHTML = "1800";
+			document.getElementById("valor42").innerHTML = "3000";
 		break;
 	}
 }
@@ -1210,15 +1210,15 @@ function stegosaurus(){
 		break;
 
 		case '200':
-			document.getElementById("valor50").innerHTML = "1000";
+			document.getElementById("valor50").innerHTML = "1700";
 		break;
 
 		case '250':
-			document.getElementById("valor50").innerHTML = "1400";
+			document.getElementById("valor50").innerHTML = "2200";
 		break;
 
 		case '300':
-			document.getElementById("valor50").innerHTML = "1800";
+			document.getElementById("valor50").innerHTML = "2700";
 		break;
 	}
 }
@@ -1231,15 +1231,15 @@ function carbonemys(){
 		break;
 
 		case '200':
-			document.getElementById("valor51").innerHTML = "1000";
+			document.getElementById("valor51").innerHTML = "1500";
 		break;
 
 		case '250':
-			document.getElementById("valor51").innerHTML = "1400";
+			document.getElementById("valor51").innerHTML = "2000";
 		break;
 
 		case '300':
-			document.getElementById("valor51").innerHTML = "1800";
+			document.getElementById("valor51").innerHTML = "2500";
 		break;
 	}
 }
