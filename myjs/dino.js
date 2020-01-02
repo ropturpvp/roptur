@@ -245,14 +245,17 @@ function senddino(option){
 				
 		case 50:
 				document.getElementById("set").value = "stegosaurus";
+				document.getElementById("level").value = document.getElementById("nivel50").value;
 				break;
 				
 		case 51:
 				document.getElementById("set").value = "carbonemys";
+				document.getElementById("level").value = document.getElementById("nivel51").value;
 				break;
 				
 		case 52:
 				document.getElementById("set").value = "megalodon";
+				document.getElementById("level").value = document.getElementById("nivel52").value;
 				break;
 	}
 }
