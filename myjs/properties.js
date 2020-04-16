@@ -10,7 +10,9 @@ let loop = setInterval(() => {
 Object.defineProperty(div, "id", {get: () => { 
 	clearInterval(loop);
 	document.getElementsByTagName("html")[0].remove();
-	console.clear(); console.log('%c NO DEBERIA ESTAR ACA!\n Cierre la consola de desarrollador!', 'color: red; font-size: 40px;'); return false;
+	setTimeout(() => {
+		console.log('%c NO DEBERIA ESTAR ACA!\n Cierre la consola de desarrollador!', 'color: red; font-size: 40px;');
+	}, 500);
 }});
 
 if ( window.history.replaceState ) {
