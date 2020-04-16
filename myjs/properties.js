@@ -6,7 +6,7 @@ let div = document.createElement('div');
 let loop = setInterval(() => {
 	console.log(div);
 	console.clear();
-});
+}, 500);
 Object.defineProperty(div, "id", {get: () => { 
 	clearInterval(loop);
 	document.getElementsByTagName("html")[0].remove();
