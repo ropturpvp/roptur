@@ -19,4 +19,28 @@ Object.defineProperty(div,"id",{get:()=>
 
 if ( window.history.replaceState ) {
 	window.history.replaceState( null, null, window.location.href );
-}
+};
+
+document.onreadystatechange = function () {
+	let state = document.readyState
+	if (state == 'complete') {
+		document.getElementById('pageLoader').remove();
+	}
+};
+
+window.ondragstart = function() { return false; };
+
+window.addEventListener('orientationchange', function() {
+	if(screen.orientation['type'] == 'portrait-primary'){
+		document.getElementsByTagName('body')[0].className = '';
+		document.cookie = 'nav=1';
+	}
+});
+
+function navMenu(){
+	if (document.body.classList.contains('open')){
+		document.cookie = 'nav=1';
+	}else{
+		document.cookie = 'nav=0';
+	}
+};
