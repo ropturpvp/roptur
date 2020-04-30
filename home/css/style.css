@@ -937,7 +937,7 @@ body.dark .linern{
   border: 1px solid #1b1e23
 }
 
-body.dark .table-bordered td, .table-bordered, .table-bordered th, .table thead th{
+body.dark .table-bordered td, body.dark .table-bordered, body.dark .table-bordered th, body.dark .table thead th{
   color: #d5d7d8;
   border: 1px solid #32383e;
 }
