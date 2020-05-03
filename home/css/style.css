@@ -1002,6 +1002,10 @@ body.dark .rcolor{
   color: #f13a2e !important;
 }
 
+body.dark .text-muted{
+  color: #000000 !important;
+}
+
 .input-not-spin::-webkit-outer-spin-button,
 .input-not-spin::-webkit-inner-spin-button {
   -webkit-appearance: none;
