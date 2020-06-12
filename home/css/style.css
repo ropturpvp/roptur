@@ -942,6 +942,10 @@ body.dark .table-bordered td, body.dark .table-bordered, body.dark .table-border
   border: 1px solid #32383e;
 }
 
+body.dark .info_text{
+  color:#f23a2e;
+}
+
 body.dark .mt-2{
   color: #d5d7d8;
 }
