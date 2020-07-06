@@ -2596,3 +2596,8 @@ background: #555;
 .mercadopago-button:hover{
   background:#0070ba;
 }
+
+.btn-shadow:hover{
+  transition: all 0.2s ease;
+  box-shadow: 0 0 17px 0px #0066ffc7;  
+}
