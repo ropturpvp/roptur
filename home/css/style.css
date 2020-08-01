@@ -997,7 +997,7 @@ body.dark .lost{
 }
 
 body.dark .rsimg{
-  filter: contrast(0);
+  filter: invert(0.9);
 }
 
 body.dark .nav-tabs .nav-link.active{
